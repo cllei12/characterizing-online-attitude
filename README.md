@@ -20,6 +20,16 @@
 Structure
 
 ```
-
+.
+├── README.md
+├── data-exploration\ 
+│   ├── Histogram.png
+│   ├── Sentiment_scores.png
+│   ├── USC_DataFest_2022.ipynb
+│   ├── negative_wordcloud.png
+│   └── positive_wordcloud.png
+└── topic-model
+    ├── lda_8.html
+    └── topic_model.ipynb
 ```
 
