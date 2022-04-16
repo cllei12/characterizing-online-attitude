@@ -16,3 +16,10 @@
   - Histogram of locations by user starting from 0
 
 - Gender from comments (Michael)
+
+Structure
+
+```
+
+```
+
