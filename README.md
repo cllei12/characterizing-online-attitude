@@ -2,6 +2,8 @@
 
 **CKIDS Characterizing Online Attitudes: code repo**
 
+[Project Website](https://cllei12.github.io/)
+
 - Histogram of users commenting on multiple posts (submissions)
 
 - Topic model of comments (gensim)
